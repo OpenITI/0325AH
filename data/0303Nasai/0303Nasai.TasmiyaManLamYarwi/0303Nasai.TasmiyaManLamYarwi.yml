@@ -16,9 +16,8 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: This is a collection of seven short texts attributed
-    to al-Nasā'ī; Tasmiyat man lam yarwi ʿanhu ghayr rajul wāḥid 
-    is only one of these texts.
+90#BOOK#COMMENT##: This text was published in a collection of 
+    seven short texts attributed to al-Nasā'ī.
     There are multiple versions of this collection in the corpus, 
     based on three editions: 
     * published with al-Bukhārī's Kitāb al-Ḍuʿafā'
@@ -32,7 +31,7 @@
     Zāyid does not mention the manuscript he bases its text on, 
     but it is likely a manuscript that also contains al-Nasā'ī's
     Kitāb al-Ḍuʿafā' wa-al-matrūkīn: 
-    see 0303Nasai.TasmiyaManLamYarwi.JK011235-ara1.yml.
+    see 0303Nasai.TasmiyaManLamYarwi.Shia003077BK1-ara1.yml.
     The Zāyid editions have the texts in a different order 
     from the Ḥasan ed.:
     | title                             | Zāyid | Ḥasan |
@@ -44,5 +43,4 @@
     | Aḥsan al-asānīd ...               | 5     | 5     |
     | Tasmiyat Fuqahā' al-amṣār         | 6     | 1     |
     | al-Ṭabaqāt                        | 7     | 2     |
-    It would make sense to split this book into its constituent parts,
-    however short these would be.
+    The collections have been split into their constituent parts.
