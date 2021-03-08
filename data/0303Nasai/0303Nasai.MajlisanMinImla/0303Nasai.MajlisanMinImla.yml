@@ -4,16 +4,18 @@
 10#BOOK#TITLEB#AR: Juz' fīhi majlisān min imlā' al-Nasā'ī
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
 80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/4770989714
-80#BOOK#LINKS####: https://ia802609.us.archive.org/25/items/waq13474/13474.pdf
+80#BOOK#LINKS####:
+    https://ia802609.us.archive.org/25/items/waq13474/13474.pdf
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: Two separate dictation sessions (majlis imlā') by al-Nasā'ī, 
+90#BOOK#COMMENT##: Two separate dictation sessions (majlis imlā') by al-
+    Nasā'ī,
     as written down by his last surviving student,
     Abū al-ʿAbbās Abyaḍ b. Muḥammad b. Abyaḍ al-Qurashī (293-377AH).
     (see Editor's introduction p. 17).
