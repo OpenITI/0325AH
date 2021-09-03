@@ -1,7 +1,7 @@
-00#BOOK#URI######: 0325MuallifMajhul.MaqalatAfrudisiFiNushu
+00#BOOK#URI######: 0325Anonymous.MaqalatAfrudisiFiAshyaCammiyya
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Maqālaŧ al-Iskandar al-Afrūdīsī fī anna al-nušūʾ wa-
-    al-namāʾ fī al-ṣūra lā fī al-hayūlā
+10#BOOK#TITLEA#AR: Maqālaŧ al-Iskandar al-Afrūdīsī fī al-ašyāʾ al-
+    ʿāmmiyya al-kulliyya
 10#BOOK#TITLEB#AR:
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
@@ -14,6 +14,9 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: The anonymous translator seems to have belonged to
-    the  "middle generation" of translators.  (see https://www.graeco-
-    arabic-studies.org/single-text/text/ruland-46.html)
+90#BOOK#COMMENT##: The book exists in two different translations.  The
+    translator of this version belonged to the  "middle generation" of
+    translators, ca. 800-850. (see https://www.graeco-arabic-studies.org
+    /single-text/text/ruland-68.html) The other translation was made by
+    Abū
+    ʿUthmān al-Dimashqī
