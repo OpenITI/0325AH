@@ -12,5 +12,6 @@
     based on the paragraphs; if a paragraph bridges two pages, the page
     number of the page on which the paragraph started will be at the end of
     the paragraph.
+   NOTE OF THE REVIEWER (HRH): Headers that were tagged incompletely or included parts of the body text fixed. 
 90#VERS#DATE#####: 2020-07-08
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, RANDOM_CHARS
