@@ -1,6 +1,6 @@
-00#VERS#CLENGTH##: 606624
-00#VERS#LENGTH###: 149386
-00#VERS#URI######: 0319AbuQasimBalkhi.Maqalat.Kraken220410202739-ara1
+00#VERS#CLENGTH##: 459979
+00#VERS#LENGTH###: 112790
+00#VERS#URI######: 0319AbuQasimBalkhi.Maqalat.Kraken220410202739BK1-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1056194556
 80#VERS#COLLATED#:
 80#VERS#LINKS####:
@@ -10,6 +10,9 @@
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
     * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
-    NOTE: NB: Contains second work: ʿUyūn al-masāʾil wa-l-jawābāt!
+    The original edition contained two different texts:
+    - 0319AbuQasimBalkhi.Maqalat
+    - 0319AbuQasimBalkhi.CuyunMasail
+    PV split the texts into separate files.
 90#VERS#DATE#####: 2022-04-10
 90#VERS#ISSUES###: UNCORRECTED_OCR
