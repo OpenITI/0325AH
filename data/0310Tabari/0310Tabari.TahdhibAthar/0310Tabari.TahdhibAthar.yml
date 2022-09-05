@@ -1,8 +1,7 @@
 00#BOOK#URI######: 0310Tabari.TahdhibAthar
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Tahḏīb al-Āṯār
-10#BOOK#TITLEB#AR: Tahḏīb al-āṯār wa-tafṣīl al-ṯābit ʿan rasūl Allāh
-    min al-aḫbār
+10#BOOK#TITLEA#AR: Tahḏīb al-āṯār
+10#BOOK#TITLEB#AR: Tahḏīb al-āṯār wa-tafṣīl al-ṯābit ʿan rasūl Allāh min al-aḫbār
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
