@@ -1,8 +1,8 @@
 00#BOOK#URI######: 0303Nasai.TasmiyatFuqahaAmsar
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Tasmiyaŧ fuqahāʾ al-amṣār
-10#BOOK#TITLEB#AR: Tasmiyaŧ fuqahāʾ al-amṣār min aṣḥāb rasūl Allāh wa-
-    man baʿdahum
+10#BOOK#TITLEB#AR: Tasmiyaŧ fuqahāʾ al-amṣār min aṣḥāb rasūl Allāh
+    wa-man baʿdahum
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
