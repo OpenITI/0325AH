@@ -6,12 +6,15 @@
 80#VERS#LINKS####: https://archive.org/details/waq106636waq
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: The text is taken from an edition in which it is
-    published with a sharḥ by al-Suyuti and marginal notes by al-Sindī. The
-    sharḥ and marginal notes are not included in the digitized version.  PV
-    made small corrections to the structural tags.  The pagination was done
-    based on the paragraphs; if a paragraph bridges two pages, the page
-    number of the page on which the paragraph started will be at the end of
-    the paragraph.
-   NOTE OF THE REVIEWER (HRH): Headers that were tagged incompletely or included parts of the body text fixed. 
+            published with a sharḥ by al-Suyuti and marginal notes by al-Sindī. The
+            sharḥ and marginal notes are not included in the digitized version.  PV
+            made small corrections to the structural tags.  The pagination was done
+            based on the paragraphs; if a paragraph bridges two pages, the page
+            number of the page on which the paragraph started will be at the end of
+            the paragraph.
+           NOTE OF THE REVIEWER (HRH): Headers that were tagged incompletely or included parts of the body text fixed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-08
-90#VERS#ISSUES###: PAGINATION, RANDOM_CHARS
+90#VERS#ISSUES###: PAGINATION, RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

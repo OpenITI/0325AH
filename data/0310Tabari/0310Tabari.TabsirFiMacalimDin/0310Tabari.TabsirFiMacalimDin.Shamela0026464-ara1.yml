@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://www.noor-book.com/كتاب-تبصير-أولي-النهى-ومعالم-الهدى-التبصير-في-معالم-الدين-أو-التبصير-في-معالم-الدين-pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: There are some titles in the margin of some pages.
-    They should be added to the text in brackets. I have showed their places
-    by blank headers.
+        They should be added to the text in brackets. I have showed their places
+        by blank headers.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-09-26
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

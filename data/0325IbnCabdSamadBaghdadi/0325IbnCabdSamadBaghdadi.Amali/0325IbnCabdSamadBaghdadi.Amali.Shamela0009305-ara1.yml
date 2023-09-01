@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/48204564
 80#VERS#LINKS####: http://k-tb.com/book/hadeeth4334-أمالي-أبي-إسحاق-الجزء-الأول
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2019-09-16
-90#VERS#ISSUES###: PAGINATION, PARATEXT
+90#VERS#ISSUES###: PAGINATION, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION

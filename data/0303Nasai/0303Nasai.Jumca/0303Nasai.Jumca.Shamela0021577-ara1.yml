@@ -6,9 +6,12 @@
 80#VERS#LINKS####: https://archive.org/download/hadith-01/0944-.zip
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: This book is in fact part of al-Nasā'ī's Sunan.
-    The edition is based on manuscripts of his Sunan al-Ṣughrā and
-    Sunan al-Kubrā; the latter seems to be taken as the basis of the edition.
-    PV fixed pagination.
-   NOTE OF THE REVIEWER (HRH): Headers that were tagged incompletely or included parts of the body text fixed.
+            The edition is based on manuscripts of his Sunan al-Ṣughrā and
+            Sunan al-Kubrā; the latter seems to be taken as the basis of the edition.
+            PV fixed pagination.
+           NOTE OF THE REVIEWER (HRH): Headers that were tagged incompletely or included parts of the body text fixed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-29
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
