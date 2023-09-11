@@ -8,5 +8,6 @@
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: A title like "المقدمة" must be added in front of the
     first-level blank header.
+    PV removed editorial sections
 90#VERS#DATE#####: 2019-09-18
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
