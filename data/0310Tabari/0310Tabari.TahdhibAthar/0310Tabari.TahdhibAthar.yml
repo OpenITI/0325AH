@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -31,11 +32,11 @@
     Ibn ʿAbbās' aḥādīth on the authority of ʿIkrima are extant.
     Four extant fragments have been edited:
     * vol. 1, ed. Maḥmud Shākir (Musnad ʿAbd Allāh b. ʿAbbās):
-      JK008250, Shamela0013090
+    JK008250, Shamela0013090
     * vol. 2, ed. Maḥmud Shākir (Musnad ʿUmar b. al-Khaṭṭāb):
-      JK008251, Shamela0013092
+    JK008251, Shamela0013092
     * vol. 4, ed. Maḥmud Shākir (Musnad ʿAlī b. Abī Ṭālib):
-      JK000920, Shamela0013091
+    JK000920, Shamela0013091
     * (vol. 5), ed. ʿAlī Riḍā (Musnads of ʿAbd al-Raḥmān b. ʿAwf,
-      Ṭalḥa b. ʿUbayd Allāh and al-Zubayr b. al-ʿAwāmm):
-      JK008269, Shamela0005597
+    Ṭalḥa b. ʿUbayd Allāh and al-Zubayr b. al-ʿAwāmm):
+    JK008269, Shamela0005597

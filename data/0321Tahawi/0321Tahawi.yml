@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0321Tahawi
 10#AUTH#ISM####AR: Aḥmad
 10#AUTH#KUNYA##AR: Abū Ǧaʿfar
-10#AUTH#LAQAB##AR:
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. Muḥammad b. Salāmaŧ b. ʿAbd al-malik
 10#AUTH#NISBA##AR: al-Azdī al-Ḥaǧrī al-Ṭaḥāwī
 10#AUTH#SHUHRA#AR: al-Ṭaḥāwī
@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0321-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q293771
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Aḥmad b. Muḥammad b. Salāma b. ʿAbd al-Malik al-Azdī
     al-Ḥad̲j̲rī Abū Ḏj̲aʿfar, a Ḥanafī jurist (d. 321/933). He spent most of his

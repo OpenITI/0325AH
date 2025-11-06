@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0303-XX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q293535
 80#AUTH#BIBLIO###:
     https://ia802709.us.archive.org/32/items/tmnszm/tmnszm.pdf
 90#AUTH#COMMENT##: a free running comment here; you can add as many

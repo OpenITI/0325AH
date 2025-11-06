@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/754756158,NOT_FOUND
 80#BOOK#LINKS####:
     https://archive.org/download/hadith-01/0944-.zip,NOT_FOUND
