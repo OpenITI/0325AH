@@ -1,6 +1,6 @@
 00#VERS#CLENGTH##: 638213
 00#VERS#LENGTH###: 160007
-00#VERS#URI######: 0321AbuJacfarTahawi.Mukhtasar.Kraken210826162339-ara1
+00#VERS#URI######: 0321Tahawi.Mukhtasar.Kraken210826162339-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/49680632
 80#VERS#COLLATED#: 
 80#VERS#LINKS####: https://archive.org/details/waq70342
@@ -16,4 +16,4 @@
     Link to the text file as it was before it was cleaned:
     https://raw.githubusercontent.com/OpenITI/0325AH/pre-clean/data/0321AbuJacfarTahawi/0321AbuJacfarTahawi.Mukhtasar/0321AbuJacfarTahawi.Mukhtasar.Kraken210826162339-ara1
 90#VERS#DATE#####: 2021-08-26
-90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: UNCORRECTED_OCR
